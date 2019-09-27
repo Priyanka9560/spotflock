@@ -1,0 +1,6 @@
+framework module Pods_SpotflockAssignment {
+  umbrella header "Pods-SpotflockAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

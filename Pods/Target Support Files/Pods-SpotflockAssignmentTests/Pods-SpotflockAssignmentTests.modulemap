@@ -1,0 +1,6 @@
+framework module Pods_SpotflockAssignmentTests {
+  umbrella header "Pods-SpotflockAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
